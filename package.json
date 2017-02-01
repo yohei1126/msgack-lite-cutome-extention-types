@@ -1,0 +1,6 @@
+{
+  "main": "./index.js",
+  "dependencies": {
+    "msgpack-lite": "^0.1.26"
+  }
+}
